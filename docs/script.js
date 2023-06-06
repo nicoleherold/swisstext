@@ -112,11 +112,7 @@ function appendData(data) {
             };
 
 
-
-
-
-            
-
+    
         let divSummary = document.createElement("div");
         divSummary.classList.add('gpt-summary');
         divSummary.classList.add('hidden');
